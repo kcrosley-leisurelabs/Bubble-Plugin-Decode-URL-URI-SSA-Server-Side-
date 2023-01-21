@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "technical",
+        "2": "data (things)"
+    },
+    "demo_page": "https://timezoner.bubbleapps.io/version-test/decode-uri?debug_mode=true",
+    "description": "A minimal Server Side Action (Decode URI) that takes a text (string) as its input and spits out a URL-decoded version at its output.\n\nBONUS BEATS: Another minimal Server Side Action (Encode URI) that takes a text (string) as its input and spits out a URL-ENCODED version at its output. It's like the exact opposite of the other one! Because you'll probably need that.\n\nWhoa!\n\nUsing this? Donate here or you might die in a disco inferno (jussayin'):\n\nClick here: https://grupz.com/karma\n\nA song about these plugins:\n\n\"Decode URLs,\ndecode URIs!\nDo it in the backend, baby,\ngive it to me SERVER SIDE!!\n\nURL encoder,\nlike Giorgio Moroder.\nIf you got the seed,\nI'll give you what you need.\"",
+    "image": "//s3.amazonaws.com/appforest_uf/f1612254709363x642324548508178600/giorgio-detective.svg",
+    "license": "open_source",
+    "link": "https://grupz.com/karma",
+    "name": "Decode URL/URI SSA (Server Side)",
+    "plugin_instructions": "Put this action in a workflow. Send it your string you need URL-decoded (via the \"Text to URL Decode\" field).\n\nThe decoded string appears at the action's \"Decoded Text\" output.\n\nEasy-peasey.\n\n(For the Encoder plugin, do the same, basically. Send string to encode. URL-encoded string appears at the action's \"Encoded Text\" output.)"
+}
